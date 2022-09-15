@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Lwc4BpRKfjCPDZ3iuzhG1ztOsPpmqUswPGYBWeoOqp4=",
+  "Source": "AppBlazor.APIWeb",
+  "BasePath": "_content/AppBlazor.APIWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

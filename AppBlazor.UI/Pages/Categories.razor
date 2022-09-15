@@ -1,0 +1,37 @@
+﻿@page "/Categories"
+@using EL;
+
+<h1>Categories</h1>
+
+@if (categories == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+<table>
+    <thead>
+        <tr><th>Name</th></tr>
+    </thead>
+    <tbody>
+            @foreach(var category in categories)
+            {
+                <tr>
+                    <td>@category.NameCategory</td>
+                </tr>
+            }
+
+    </tbody>
+</table>    
+}
+
+
+@code {
+    private IEnumerable<Category> categories = new List<Category>
+    {
+    new Category{ IdCategory = 1, NameCategory ="Shopping"},
+    new Category{ IdCategory=2, NameCategory="shoppiCar"}
+};
+
+    
+}

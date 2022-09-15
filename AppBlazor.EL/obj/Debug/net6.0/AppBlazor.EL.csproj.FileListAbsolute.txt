@@ -1,0 +1,12 @@
+C:\Proyectos\CPROYECTS\C2Proyects\AppBlazor.UI\AppBlazor.EL\bin\Debug\net6.0\AppBlazor.EL.deps.json
+C:\Proyectos\CPROYECTS\C2Proyects\AppBlazor.UI\AppBlazor.EL\bin\Debug\net6.0\AppBlazor.EL.dll
+C:\Proyectos\CPROYECTS\C2Proyects\AppBlazor.UI\AppBlazor.EL\bin\Debug\net6.0\AppBlazor.EL.pdb
+C:\Proyectos\CPROYECTS\C2Proyects\AppBlazor.UI\AppBlazor.EL\obj\Debug\net6.0\AppBlazor.EL.csproj.AssemblyReference.cache
+C:\Proyectos\CPROYECTS\C2Proyects\AppBlazor.UI\AppBlazor.EL\obj\Debug\net6.0\AppBlazor.EL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CPROYECTS\C2Proyects\AppBlazor.UI\AppBlazor.EL\obj\Debug\net6.0\AppBlazor.EL.AssemblyInfoInputs.cache
+C:\Proyectos\CPROYECTS\C2Proyects\AppBlazor.UI\AppBlazor.EL\obj\Debug\net6.0\AppBlazor.EL.AssemblyInfo.cs
+C:\Proyectos\CPROYECTS\C2Proyects\AppBlazor.UI\AppBlazor.EL\obj\Debug\net6.0\AppBlazor.EL.csproj.CoreCompileInputs.cache
+C:\Proyectos\CPROYECTS\C2Proyects\AppBlazor.UI\AppBlazor.EL\obj\Debug\net6.0\AppBlazor.EL.dll
+C:\Proyectos\CPROYECTS\C2Proyects\AppBlazor.UI\AppBlazor.EL\obj\Debug\net6.0\refint\AppBlazor.EL.dll
+C:\Proyectos\CPROYECTS\C2Proyects\AppBlazor.UI\AppBlazor.EL\obj\Debug\net6.0\AppBlazor.EL.pdb
+C:\Proyectos\CPROYECTS\C2Proyects\AppBlazor.UI\AppBlazor.EL\obj\Debug\net6.0\ref\AppBlazor.EL.dll

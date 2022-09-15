@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AppBlazor.EL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AppBlazor.EL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AppBlazor.EL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppBlazor.EL/1.0.0": {
+      "type": "project",
+      "path": "../AppBlazor.EL/AppBlazor.EL.csproj",
+      "msbuildProject": "../AppBlazor.EL/AppBlazor.EL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AppBlazor.EL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ronal\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Proyectos\\CPROYECTS\\C2Proyects\\AppBlazor.UI\\AppBlazor.UI\\AppBlazor.UI.csproj",
+      "projectName": "AppBlazor.UI",
+      "projectPath": "C:\\Proyectos\\CPROYECTS\\C2Proyects\\AppBlazor.UI\\AppBlazor.UI\\AppBlazor.UI.csproj",
+      "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
+      "outputPath": "C:\\Proyectos\\CPROYECTS\\C2Proyects\\AppBlazor.UI\\AppBlazor.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Proyectos\\CPROYECTS\\C2Proyects\\AppBlazor.UI\\AppBlazor.EL\\AppBlazor.EL.csproj": {
+              "projectPath": "C:\\Proyectos\\CPROYECTS\\C2Proyects\\AppBlazor.UI\\AppBlazor.EL\\AppBlazor.EL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
